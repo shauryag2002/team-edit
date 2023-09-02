@@ -1,0 +1,52 @@
+.updateDoc {
+  margin-left: 2rem;
+}
+.updateHeading,
+.colHeading {
+  font-size: 2rem;
+  color: var(--brown);
+}
+.updateDoc1 {
+  width: 70%;
+  height: 36px;
+  border: 2px solid var(--brown);
+  border-radius: 10px;
+  padding: 0.51rem 0 0.51rem 2rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.handleUpdate {
+  border: 2px solid var(--brown);
+  margin-top: 2rem;
+  padding-left: 2rem;
+}
+.update {
+  width: 100px;
+  height: 20px;
+  background-color: var(--brown);
+  border: 2px solid var(--brown);
+  padding: 0.5rem;
+  border-radius: 10px;
+  color: var(--grey);
+  margin: 10px 0;
+}
+.collaborators {
+  border: 2px solid var(--brown);
+  margin-top: 2rem;
+  padding-left: 2rem;
+}
+.colName {
+  font-size: 1.5rem;
+  /* flex: 1; */
+
+  width: 50%;
+}
+.deleteCol {
+  /* flex: 1; */
+}
+.singleCol {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2rem;
+}

@@ -1,0 +1,12 @@
+:root {
+  --orange: #ea9937;
+  --grey: #c2c9cf;
+  --little: #c3b8b0;
+  --brown: #7f695a;
+  --green: #afd274;
+}
+.video-style {
+  height: 100px;
+  width: 100px;
+  position: static !important;
+}

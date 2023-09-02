@@ -1,0 +1,51 @@
+.saved {
+  padding: 2rem 2rem 0 2rem;
+  font-size: 2rem;
+  color: var(--brown);
+}
+.savedDocs {
+  max-width: 85%;
+  margin: 2rem auto;
+  border: 2px solid var(--brown);
+}
+.docDetails {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.docName {
+  font-size: 1.5rem;
+  flex: 2;
+  width: fit-content;
+}
+.type {
+  background-color: var(--brown);
+  color: white;
+  border: 2px solid var(--brown);
+  border-radius: 10px;
+  height: 28px;
+  width: fit-content;
+  text-align: center;
+  flex: 1;
+}
+.allDocs {
+  padding: 2rem;
+}
+.scroll {
+  height: 200px;
+  overflow-y: scroll;
+}
+.singleDoc {
+  display: flex;
+  margin-top: 1rem;
+}
+.settings {
+  margin: auto;
+  flex: 1;
+  text-align: center;
+}
+.delete {
+  text-align: center;
+  margin: auto;
+  flex: 1;
+}

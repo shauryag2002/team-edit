@@ -1,0 +1,36 @@
+.addDoc {
+  max-width: 85%;
+  margin: auto;
+  border: 2px solid var(--brown);
+}
+.docHeading {
+  padding: 2rem 2rem 1rem 2rem;
+  font-size: 2rem;
+  color: var(--brown);
+}
+.title {
+  color: var(--brown);
+  font-size: 1.4rem;
+  padding: 0 2rem 1rem;
+}
+.inputDoc {
+  padding: 0 0 1rem 2rem;
+}
+.inputDoc .docInput {
+  width: 70%;
+  height: 36px;
+  border: 2px solid var(--brown);
+  border-radius: 10px;
+}
+.submitBtn {
+  padding: 0 0 1rem 2rem;
+}
+.submitBtn span {
+  width: 30px;
+  height: 20px;
+  background-color: var(--brown);
+  border: 2px solid var(--brown);
+  padding: 0.5rem;
+  border-radius: 10px;
+  color: var(--grey);
+}

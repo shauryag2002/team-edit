@@ -1,0 +1,15 @@
+div.jodit-workplace .jodit-wysiwyg {
+  height: 100vh;
+}
+.jodit-react-container {
+  max-width: 816.5px;
+  height: 688.5px;
+  margin: auto;
+}
+.jodit-container .jodit .jodit_theme_default .jodit-wysiwyg_mode .full-height {
+  width: 816.5px;
+}
+.jodit-wysiwyg {
+  min-height: 0;
+  height: 84vh !important;
+}

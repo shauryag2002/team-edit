@@ -1,0 +1,23 @@
+.footer-style {
+  position: absolute;
+  bottom: 0;
+  width: 99%;
+}
+.Notification {
+  border: 2px solid var(--brown);
+  width: 80%;
+  margin: 10px auto;
+  font-size: 1.6rem;
+}
+.notiHeading {
+  margin: 20px auto 30px auto;
+  width: 61%;
+}
+.sendNotiBtn {
+  background-color: var(--brown);
+  border: 2px solid var(--brown);
+  padding: 0.5rem;
+  border-radius: 10px;
+  color: var(--grey);
+  margin: 10px 43%;
+}

@@ -1,0 +1,22 @@
+.register-style {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.error-style {
+  padding: 20px;
+  border: 2px solid rgb(254, 50, 50);
+  background-color: rgb(197 61 61);
+}
+.e-message {
+  color: #ff9b9b;
+}
+@media screen and (max-width: 459px) {
+  .signup-text {
+    font-size: 2rem;
+  }
+}
+.cursor {
+  cursor: pointer;
+}
